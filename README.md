@@ -1,7 +1,6 @@
 ## Accuracy of each experiments
 ### 1. PlainNet
-|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2
-ACC|3 ACC|4 ACC|5 ACC|6 ACC|
+|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|PlainNet-1|-|-|16|0.0001|91.33%|83.10%|92.86%|91.55%|98.61%|88.73%|100.00%|84.06%|
 |2|PlainNet-2|-|-|16|0.0001|86.09%|78.87%|95.71%|76.06%|97.22%|87.32%|97.22%|69.57%|
@@ -14,8 +13,7 @@ ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |9|PlainNet-9|-|-|16|0.0001|81.25%|100.00%|57.14%|95.77%|98.61%|54.93%|88.89%|72.46%|
 |10|PlainNet-10|-|-|16|0.0001|91.94%|98.59%|91.43%|92.96%|97.22%|83.10%|97.22%|82.61%|
 
-|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2
-ACC|3 ACC|4 ACC|5 ACC|6 ACC|
+|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|PlainNet-SAM-1|-|-|16|0.0001|87.70%|76.06%|97.14%|94.37%|97.22%|74.65%|100.00%|73.91%|
 |2|PlainNet-SAM-2|-|-|16|0.0001|87.10%|91.55%|88.57%|98.59%|97.22%|54.93%|97.22%|81.16%|
@@ -36,8 +34,7 @@ ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 
 
 ### 2. ResNet
-|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2
-ACC|3 ACC|4 ACC|5 ACC|6 ACC|
+|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|ResNet-1|-|-|16|0.0001|83.06%|73.24%|75.71%|97.18%|83.33%|85.92%|87.50%|78.26%|
 |2|ResNet-2|-|-|16|0.0001|84.27%|78.87%|87.14%|84.51%|94.44%|91.55%|100.0%|52.17%|
@@ -50,8 +47,7 @@ ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |9|ResNet-9|-|-|16|0.0001|89.31%|85.92%|92.86%|95.77%|95.83%|78.87%|97.22%|78.26%|
 |10|ResNet-10|-|-|16|0.0001|87.30%|85.92%|95.71%|94.37%|94.44%|87.32%|100.0%|52.17%|
 
-|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2
-ACC|3 ACC|4 ACC|5 ACC|6 ACC|
+|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|ResNet-SAM-1|-|-|16|0.0001|90.73%|94.37%|90.00%|97.18%|98.61%|76.06%|97.22%|81.16%|
 |2|ResNet-SAM-2|-|-|16|0.0001|85.08%|80.28%|94.29%|80.28%|100.0%|70.42%|100.0%|69.57%|
@@ -71,8 +67,7 @@ ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |3DResNet-SAM|86.41%|
 
 ### 3. InceptionNet
-|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2
-ACC|3 ACC|4 ACC|5 ACC|6 ACC|
+|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|Inception-1|-|-|16|0.0001|84.48%|67.61%|84.29%|91.55%|97.22%|78.87%|97.22%|73.91%|
 |2|Inception-2|-|-|16|0.0001|87.90%|83.10%|88.57%|95.77%|95.83%|90.14%|91.67%|69.57%|
@@ -85,8 +80,7 @@ ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |9|Inception-9|-|-|16|0.0001|86.90%|84.51%|100.00%|91.55%|95.83%|76.06%|94.44%|65.22%|
 |10|Inception-10|-|-|16|0.0001|83.47%|87.32%|97.14%|74.65%|98.61%|78.87%|91.67%|55.07%|
 
-|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2
-ACC|3 ACC|4 ACC|5 ACC|6 ACC|
+|ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|Inception-SAM-1|-|-|16|0.0001|88.51%|85.92%|97.14%|90.14%|100.00%|71.83%|95.83%|78.26%|
 |2|Inception-SAM-2|-|-|16|0.0001|80.04%|70.42%|91.43%|64.79%|97.22%|91.55%|98.61%|44.93%|
