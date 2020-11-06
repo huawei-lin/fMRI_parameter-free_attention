@@ -1,0 +1,8 @@
+2020-06-04 10:53:49,824[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 11.09 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)
+2020-06-04 10:58:43,129[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 10.75 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)
+2020-06-04 11:03:26,556[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 10.75 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)
+2020-06-04 11:08:24,603[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 10.75 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)
+2020-06-04 11:13:13,062[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 10.75 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)
+2020-06-04 11:17:53,220[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 10.75 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)
+2020-06-04 11:22:42,424[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 10.75 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)
+2020-06-04 11:27:34,467[line:54] - ERROR: CUDA out of memory. Tried to allocate 256.00 MiB (GPU 0; 11.91 GiB total capacity; 10.75 GiB already allocated; 149.06 MiB free; 11.20 GiB reserved in total by PyTorch)

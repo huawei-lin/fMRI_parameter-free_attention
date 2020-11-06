@@ -1,0 +1,31 @@
+2020-06-04 11:36:40,900[line:2] - INFO: --------------------------------------------------------------
+2020-06-04 11:36:40,902[line:4] - INFO: Network loading, learningRate: 0.0001, BatchSize: 12, experimentTimes: 0
+2020-06-04 11:36:40,909[line:15] - INFO: DataLoader have been created!
+2020-06-04 11:36:44,455[line:18] - INFO: Network have been established.
+2020-06-04 11:36:44,462[line:24] - INFO: Train begining.
+2020-06-04 11:38:00,905[line:3] - INFO: 5: (train) acc:8.333333333333332%, loss:2.1804025173187256
+2020-06-04 11:38:08,094[line:3] - INFO: 10: (train) acc:0.0%, loss:2.0372018814086914
+2020-06-04 11:38:15,325[line:3] - INFO: 15: (train) acc:25.0%, loss:1.8031977415084839
+2020-06-04 11:38:22,567[line:3] - INFO: 20: (train) acc:0.0%, loss:2.188459634780884
+2020-06-04 11:38:29,840[line:3] - INFO: 25: (train) acc:33.33333333333333%, loss:1.5938118696212769
+2020-06-04 11:38:37,030[line:3] - INFO: 30: (train) acc:25.0%, loss:1.722542405128479
+2020-06-04 11:38:37,035[line:45] - INFO: Evaluating!
+2020-06-04 11:39:24,866[line:17] - INFO: Evaluationg, 12
+2020-06-04 11:39:27,056[line:17] - INFO: Evaluationg, 24
+2020-06-04 11:39:27,276[line:17] - INFO: Evaluationg, 36
+2020-06-04 11:39:27,438[line:17] - INFO: Evaluationg, 48
+2020-06-04 11:39:27,604[line:17] - INFO: Evaluationg, 60
+2020-06-04 11:39:27,758[line:17] - INFO: Evaluationg, 72
+2020-06-04 11:39:27,925[line:17] - INFO: Evaluationg, 84
+2020-06-04 11:39:28,085[line:17] - INFO: Evaluationg, 96
+2020-06-04 11:39:52,436[line:17] - INFO: Evaluationg, 108
+2020-06-04 11:39:53,545[line:17] - INFO: Evaluationg, 120
+2020-06-04 11:39:54,557[line:17] - INFO: Evaluationg, 132
+2020-06-04 11:39:55,130[line:17] - INFO: Evaluationg, 144
+2020-06-04 11:39:55,285[line:17] - INFO: Evaluationg, 156
+2020-06-04 11:39:55,396[line:17] - INFO: Evaluationg, 165
+2020-06-04 11:39:55,477[line:3] - INFO: 30: (eval) acc:24.848484848484848%, loss:0.15210437774658203
+2020-06-04 11:40:02,856[line:3] - INFO: 35: (train) acc:8.333333333333332%, loss:1.8699790239334106
+2020-06-04 11:40:09,895[line:3] - INFO: 40: (train) acc:50.0%, loss:1.698900818824768
+2020-06-04 11:40:16,946[line:3] - INFO: 45: (train) acc:16.666666666666664%, loss:1.7193303108215332
+2020-06-04 11:40:24,044[line:3] - INFO: 50: (train) acc:16.666666666666664%, loss:1.753700852394104
