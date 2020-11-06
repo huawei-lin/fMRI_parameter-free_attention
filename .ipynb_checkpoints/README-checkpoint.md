@@ -1,6 +1,6 @@
 ## Accuracy of each experiments
 ### 1. PlainNet
-|ID|Network-Num|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
+|ID|Network-Num|BatchSize|lr|Aver ACC|0ACC|1ACC|2ACC|3ACC|4ACC|5ACC|6ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|PlainNet-1|16|0.0001|<b>91.33%</b>|83.10%|92.86%|91.55%|98.61%|88.73%|100.00%|84.06%|
 |2|PlainNet-2|16|0.0001|<b>86.09%</b>|78.87%|95.71%|76.06%|97.22%|87.32%|97.22%|69.57%|
