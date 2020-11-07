@@ -1,3 +1,5 @@
+
+
 ### 1. PlainNet
 |ID|Network-Num|TrainNum|TestNum|BatchSize|LearningRate|Aver ACC|0 ACC|1 ACC|2
 ACC|3 ACC|4 ACC|5 ACC|6 ACC|

@@ -1,4 +1,16 @@
+
 ## Accuracy of each experiments
+### Overview
+
+|network|aver acc|
+|:---:|:---:|
+|PlainNet|87.90%|
+|PlainNet-SAM|<b>88.69%</b>|
+|3DResNet|83.35%|
+|3DResNet-SAM|<b>86.41%</b>|
+|Inception|85.08%|
+|Inception-SAM|<b>86.07%</b>|
+
 ### 1. PlainNet
 |Network-ID|BS|LR|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -27,10 +39,7 @@
 |PlainNet-SAM-10|16|0.0001|<b>90.73%</b>|98.59%|88.57%|91.55%|93.06%|80.28%|97.22%|85.51%|
 
 
-|network|aver acc|
-|:---:|:---:|
-|PlainNet|87.90%|
-|PlainNet-SAM|88.69%|
+
 
 
 ### 2. ResNet
@@ -61,10 +70,7 @@
 |ResNet-SAM-10|16|0.0001|<b>81.048%</b>|73.24%|78.57%|95.77%|98.61%|50.70%|95.83%|73.91%|
 
 
-|network|aver acc|
-|:---:|:---:|
-|3DResNet|83.35%|
-|3DResNet-SAM|86.41%|
+
 
 ### 3. InceptionNet
 |Network-ID|BS|LR|Aver ACC|0 ACC|1 ACC|2 ACC|3 ACC|4 ACC|5 ACC|6 ACC|
@@ -93,7 +99,4 @@
 |Inception-SAM-9|16|0.0001|<b>85.89%</b>|77.46%|90.00%|92.96%|95.83%|76.06%|97.22%|71.01%|
 |Inception-SAM-10|16|0.0001|<b>85.89%</b>|83.10%|94.29%|94.37%|98.61%|69.01%|88.89%|72.46%|
 
-|network|aver acc|
-|:---:|:---:|
-|Inception|85.08%|
-|Inception-SAM|86.07%|
+
