@@ -6,8 +6,14 @@
 |:---:|:---:|
 |PlainNet|87.90%|
 |PlainNet-SAM|<b>88.69%</b>|
+
+|network|aver acc|
+|:---:|:---:|
 |3DResNet|83.35%|
 |3DResNet-SAM|<b>86.41%</b>|
+
+|network|aver acc|
+|:---:|:---:|
 |Inception|85.08%|
 |Inception-SAM|<b>86.07%</b>|
 
