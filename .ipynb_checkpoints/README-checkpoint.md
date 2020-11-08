@@ -11,15 +11,15 @@ It is authored by <b>Yong Qi</b>, **[Huawei Lin](https://github.com/huawei-lin/A
 
 ## Label
 ```
-labelNumber = {
-        'EMOTION': 0, 
-        'GAMBLING': 1, 
-        'LANGUAGE': 2, 
-        'MOTOR': 3,
-        'RELATIONAL': 4, 
-        'SOCIAL': 5, 
-        'Working Memory': 6
-    }
+label_ID = {
+    'EMOTION': 0, 
+    'GAMBLING': 1, 
+    'LANGUAGE': 2, 
+    'MOTOR': 3,
+    'RELATIONAL': 4, 
+    'SOCIAL': 5, 
+    'Working Memory': 6
+}
 ```
 
 ## Accuracy of Each Experiment
