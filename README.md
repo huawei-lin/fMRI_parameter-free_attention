@@ -3,7 +3,7 @@
 ## Introduction
 This repo includes the experiment codes and experiment results for the Skip Attention Module (SAM). The SAM is a parameter-free attention module using in fMRI decoding to increase the decoding performance, which can be able to stack on any architecture of convolutional neural network without any parameters that need to train, and does not increase any burden of training.
 
-It is authored by <font color="blue">Yong Qi</font>, <font color="blue">Huawei Lin</font>, <font color="blue">Yanping Li</font>, and <font color="blue">Jiashu Chen</font>. Currently, it is being maintained by <font color="blue">Huawei Lin</font> and <font color="blue">Yanping Li</font>.
+It is authored by <font color="red">Yong Qi</font>, <font color="blue">Huawei Lin</font>, <font color="blue">Yanping Li</font>, and <font color="blue">Jiashu Chen</font>. Currently, it is being maintained by <font color="blue">Huawei Lin</font> and <font color="blue">Yanping Li</font>.
 ## Data Source
 
 ## Data Processing
