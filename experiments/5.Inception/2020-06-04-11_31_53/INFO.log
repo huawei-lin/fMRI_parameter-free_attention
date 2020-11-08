@@ -1,5 +1,0 @@
-2020-06-04 11:31:53,432[line:2] - INFO: --------------------------------------------------------------
-2020-06-04 11:31:53,433[line:4] - INFO: Network loading, learningRate: 0.0001, BatchSize: 12, experimentTimes: 0
-2020-06-04 11:31:53,437[line:15] - INFO: DataLoader have been created!
-2020-06-04 11:31:57,739[line:18] - INFO: Network have been established.
-2020-06-04 11:31:57,745[line:24] - INFO: Train begining.

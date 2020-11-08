@@ -1,7 +1,0 @@
-2020-06-04 18:35:44,591[line:2] - INFO: --------------------------------------------------------------
-2020-06-04 18:35:44,593[line:4] - INFO: Network loading, learningRate: 0.0001, BatchSize: 12, experimentTimes: 0
-2020-06-04 18:35:44,597[line:15] - INFO: DataLoader have been created!
-2020-06-04 18:35:48,739[line:18] - INFO: Network have been established.
-2020-06-04 18:35:48,744[line:24] - INFO: Train begining.
-2020-06-04 18:37:10,919[line:54] - ERROR: 'Network' object has no attribute 'relu'
-2020-06-04 18:39:36,020[line:54] - ERROR: 'Network' object has no attribute 'relu'

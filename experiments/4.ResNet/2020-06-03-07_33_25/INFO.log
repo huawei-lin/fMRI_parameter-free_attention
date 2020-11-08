@@ -1,3 +1,0 @@
-2020-06-03 07:33:26,858[line:2] - INFO: --------------------------------------------------------------
-2020-06-03 07:33:26,860[line:4] - INFO: Network loading, learningRate: 0.003, BatchSize: 16, trainNum: 300, experimentTimes: 0
-2020-06-03 07:33:30,007[line:13] - INFO: Network have been established.

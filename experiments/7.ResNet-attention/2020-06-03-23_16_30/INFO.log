@@ -1,3 +1,0 @@
-2020-06-03 23:16:30,785[line:2] - INFO: --------------------------------------------------------------
-2020-06-03 23:16:30,787[line:4] - INFO: Network loading, learningRate: 0.0001, BatchSize: 16, experimentTimes: 0
-2020-06-03 23:16:30,791[line:15] - INFO: DataLoader have been created!
